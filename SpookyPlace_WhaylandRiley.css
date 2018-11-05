@@ -1,0 +1,23 @@
+/*
+*Riley Whayland 
+*November 6, 2018 
+*Spooky places
+
+/* The universal selector */ 
+
+*{
+
+}
+
+/* Body attributes here */ 
+
+body {
+    width: 80%;
+    margin:auto;
+    background-color:lightgoldenrodyellow;
+                color:black;
+
+}
+#CubanClub { width: 500px; height: 300px; }
+
+#about { width: 500px; height: 300px; }
